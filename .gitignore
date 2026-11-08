@@ -1,0 +1,49 @@
+# IDE and local tooling
+.idea/
+.hvigor/
+.ohpm/
+.android/
+*.iml
+.deveco-clean.vmoptions
+
+# Build output and dependencies
+build/
+entry/build/
+oh_modules/
+node_modules/
+android-app/.gradle/
+android-app/build/
+android-app/app/build/
+
+# Local SDKs and downloaded archives
+android-sdk/
+android-tools-extract/
+jdk21/
+android-commandlinetools.zip
+jdk21*.zip
+local.properties
+
+# Signing keys and certificates
+*.keystore
+*.jks
+*.p12
+*.p7b
+*.cer
+*.pem
+*.key
+
+# Install packages
+*.apk
+*.hap
+*.hsp
+*.idsig
+
+# Local screenshots and checks
+/classcue-screen.jpeg
+/classcue-schedule.jpeg
+/project-structure-check.png
+/signing-status.png
+
+# OS files
+.DS_Store
+Thumbs.db

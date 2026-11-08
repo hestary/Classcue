@@ -1,0 +1,20 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "支持锁屏提醒的本地待办"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "ClassCue"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "ClassCue"
+    },
+    {
+      "name": "calendar_permission_reason",
+      "value": "用于把待办写入系统日历并在锁屏提醒"
+    }
+  ]
+}

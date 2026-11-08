@@ -1,0 +1,10 @@
+{
+  "modelVersion": "5.0.0",
+  "name": "class-cue",
+  "version": "1.0.0",
+  "description": "A local-first todo and lock-screen reminder app for HarmonyOS NEXT",
+  "main": "",
+  "author": "",
+  "license": "",
+  "dependencies": {}
+}

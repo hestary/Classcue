@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ClassCue</string>
+    <string name="reminder_channel">待办提醒</string>
+    <string name="reminder_channel_description">在到期前提醒课程与待办事项</string>
+</resources>
